@@ -1,13 +1,7 @@
 # ChimpBehave
 
-## Examples - walking, sitting, standing, running
-<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/walking.gif" width="150" height="150">
-<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/sitting.gif" width="150" height="150">
-<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/standing.gif" width="150" height="150">
-<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/running.gif" width="150" height="150">
-<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/hanging.gif" width="150" height="150">
-<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/climbing_down.gif" width="150" height="150">
-<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/climbing_up.gif" width="150" height="150">
+## Examples - walking, sitting, standing, running, hanging, climbing down, climbing up
+<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/walking.gif" width="140" height="140"><img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/sitting.gif" width="140" height="140"><img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/standing.gif" width="140" height="140"><img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/running.gif" width="140" height="140"><img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/hanging.gif" width="140" height="140"><img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/climbing_down.gif" width="140" height="140"><img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/climbing_up.gif" width="140" height="140">
 
 
 ## Data preparation
