@@ -1,7 +1,7 @@
 # ChimpBehave
 
 ## Examples - walking, sitting, standing, running
-<img src="https://github.com/MitchFuchs/asbar/assets/gifs/walking.gif" width="200" height="200">
+<img src="https://github.com/MitchFuchs/ChimpBehave/assets/gifs/walking.gif" width="200" height="200">
 
 
 ## Data preparation
