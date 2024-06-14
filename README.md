@@ -1,13 +1,20 @@
 # ChimpBehave
 
 ## Examples - walking, sitting, standing, running
-<img src="https://github.com/MitchFuchs/ChimpBehave/assets/gifs/walking.gif" width="200" height="200">
+<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/walking.gif" width="150" height="150">
+<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/sitting.gif" width="150" height="150">
+<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/standing.gif" width="150" height="150">
+<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/running.gif" width="150" height="150">
+<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/hanging.gif" width="150" height="150">
+<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/climbing_down.gif" width="150" height="150">
+<img src="https://github.com/MitchFuchs/ChimpBehave/blob/main/assets/gifs/climbing_up.gif" width="150" height="150">
 
 
 ## Data preparation
 Download the ChimpBehave dataset found here: [url]
 
 Save it in the data folder to match the following structure:
+
     ├── ...
     ├── data                                            # data folder
     │   ├── chimpbehave                                 # chimpbehave dataset folder 
