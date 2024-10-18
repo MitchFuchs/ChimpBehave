@@ -9,7 +9,7 @@ In this paper, we introduce ChimpBehave, a novel dataset featuring over 2 hours 
 
 
 ## Data preparation
-Download the ChimpBehave dataset found here: [here](https://drive.google.com/file/d/1KwdALFX7lRnFD8nQq_qIIzIWAK0sO4Jw/view?usp=sharing)
+Download the ChimpBehave dataset found here: [dataset](https://drive.google.com/file/d/1KwdALFX7lRnFD8nQq_qIIzIWAK0sO4Jw/view?usp=sharing), [bboxes](https://drive.google.com/file/d/1RYp11Gj1jdU9KssIqqT8GBzX9lrCITuT/view?usp=sharing)
 
 
 
